@@ -99,5 +99,5 @@ theme: 3-hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:BrucePhoebus/note-hexo.git
-  branch: deploy
+  repo: git@github.com:BrucePhoebus/BrucePhoebus.github.io.git
+  branch: master
